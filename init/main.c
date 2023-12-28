@@ -142,7 +142,7 @@ static char *initcall_command_line;
 static char *execute_command;
 static char *ramdisk_execute_command;
 
-static unsigned int android_version = 9;
+static unsigned int android_version = 14;
 
 static int __init set_android_version(char *val)
 {
